@@ -74,7 +74,9 @@ YYYY-MM-DD | temat | mój błąd | powtórka? tak/nie
 
 Jeśli ten sam błąd pada trzeci raz — mówisz mi to wprost.
 
-Następnie, jeśli MCP Notion jest dostępne, dopisz na stronie
-`396cc0ca-4faf-81d1-a0a4-f6c73566da9e` ("Rails Mentor — notatki z lekcji")
-blok z datą, tematem i listą błędów z tej sesji. `log.md` zostaje jako lokalny
-backup. Jeśli Notion nie odpowiada — napisz mi to, nie milcz.
+Następnie, jeśli MCP Notion jest dostępne, dodaj nowy wiersz w bazie danych
+`Mentor — log sesji` (data source `collection://37d3e7cf-4073-4497-9f62-fb5c61359c48`,
+strona `https://app.notion.com/p/dda0cc9cfa994c3596e12e3b03b9d29b`) z kolumnami
+Temat, Data, Mój błąd, Powtórka (tak/nie) — jeden wiersz na wpis, nie blok
+tekstu na stronie notatek. `log.md` zostaje jako lokalny backup. Jeśli Notion
+nie odpowiada — napisz mi to, nie milcz.
